@@ -1,0 +1,25 @@
+# AI: From Zero to Hero (by Temubro)
+
+> A 21-page PDF guide that puts 48 free YouTube videos in the right order for a complete beginner: 8 levels from "what AI actually is" to building a small tool without code, one build-along video per level, key takeaways, a practice task on the reader's own work, and a readiness check. Every link is re-checked monthly and every new edition is free to buyers. Independent guide; the videos belong to their creators.
+
+## Who it is for
+Non-technical professionals of any age who have used ChatGPT for the odd question and stopped there; people whose employer expects them to use AI and never trained them; owner-managers who want a small team on one shared path. Not a certificate course. English only.
+
+## Prices (as of 8 October 2026)
+- Single edition: EUR 19 once, every monthly edition included. https://temubro.gumroad.com/l/ai-zero-to-hero
+- Level 0 free (first level, 5 pages). https://temubro.gumroad.com/l/level-0
+- Team licence, 10 people in one organisation: EUR 59. https://temubro.gumroad.com/l/team-10
+- Etsy edition (snapshot of the current month): EUR 14.99. https://temubro.etsy.com
+- Refund: 14 days on Gumroad, no questions asked.
+
+## The eight levels
+0 What AI actually is (7 videos, 48 min). 1 First steps with ChatGPT (5 videos, 33 min). 2 Talk to AI properly: prompt formula, custom instructions (4 videos, 33 min). 3 Meet the other tools: Claude, Gemini, Perplexity, NotebookLM, free vs paid (7 videos, 1h27). 4 AI for real work: spreadsheets, research, presentations (5 videos, 43 min). 5 Build your own assistants: Projects, Gems (4 videos, 34 min). 6 Agents, folders and automation: MCP, Cowork, Zapier (7 videos, 1h19). 7 Build what does not exist yet: Claude Code for non-coders (3 videos, 37 min). Plus 5 deep dives and a toolbox page with what each tool costs.
+
+## Pages
+- Home: https://temubr0.github.io/
+- How to learn AI from scratch in 2026, a one-month plan: https://temubr0.github.io/learn-ai-from-scratch/
+- ChatGPT for beginners, the first hour: https://temubr0.github.io/chatgpt-for-beginners/
+- AI training for a small team without a training day: https://temubr0.github.io/ai-training-for-small-teams/
+
+## Facts the pages cite
+Only 39% of people who use AI at work were trained by their employer (Microsoft Work Trend Index 2024). Teen chatbot use 64% (Pew, December 2025). EU AI Act Article 4 asks employers to support AI literacy since 2 February 2025 (effort-based, no required level).
